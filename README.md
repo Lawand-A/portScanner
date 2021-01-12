@@ -12,4 +12,4 @@ $ python3 portScanner.py -s 'put the server ip'
 
 
 <h3>Info</h3>
-This is just a basic port scanner I will update it and modify it soon
+This is just a basic port scanner I will update and modify it soon
