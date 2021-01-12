@@ -1,6 +1,6 @@
 <h1>portScanner</h1>
 
-<p>Basic scanner of open ports on a server<p1>
+<p>Basic scanner of open ports in a server<p1>
 
 <h3>Clone and Run</h3>
 
